@@ -28,7 +28,7 @@ Clone the repository:
 
 Bash
 
-git clone <your-repository-url>
+git clone <https://github.com/Abhi-gitss/flutter1>
 Navigate to the project directory:
 
 Bash
